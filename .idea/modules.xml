@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/manhattan-static-haxit.top.iml" filepath="$PROJECT_DIR$/.idea/manhattan-static-haxit.top.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/static_sak.iml" filepath="$PROJECT_DIR$/.idea/static_sak.iml" />
     </modules>
   </component>
 </project>
